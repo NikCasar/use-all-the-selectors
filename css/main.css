@@ -1,0 +1,62 @@
+body {
+  background-color:  #fdf6e3;
+}
+
+header ~ footer {
+  font-size: 1.5rem;
+}
+
+nav > ul {
+  font-family: sans-serif;
+}
+.h1 {
+  text-transform: uppercase;
+}
+
+.main {
+  background-color: #eee8d5;
+}
+
+#contents {
+  color: #93a1a1;
+}
+
+#faves    {
+  color: #93a1a1;
+}
+
+#facts    {
+  color: #93a1a1;
+}
+
+#types    {
+  color: #93a1a1;
+}
+
+.main > .p:first-of-type  {
+  background-color: #b58900;
+}
+
+p:last-of-type {
+  color: #fff;
+}
+
+a:not(.no-highlight) {
+background-color: #719e07
+}
+
+a:link [rel="external"]{
+background-color: #2694d8;
+}
+
+ol > li {
+  color:#2aa198;
+}
+
+.types > li:nth-child(odd){
+background-color:#586e75;
+}
+
+.types > li:nth-child(3){
+  background-color: #d04b16;
+}
