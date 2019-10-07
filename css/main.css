@@ -1,5 +1,5 @@
 body {
-  background-color:  #fdf6e3;
+  background-color: #fdf6e3;
 }
 
 header ~ footer {
@@ -42,19 +42,19 @@ p:last-of-type {
 }
 
 a:not(.no-highlight) {
-background-color: #719e07
+  background-color: #719e07
 }
 
 a:link [rel="external"]{
-background-color: #2694d8;
+  background-color: #2694d8;
 }
 
 ol > li {
-  color:#2aa198;
+  color: #2aa198;
 }
 
 .types > li:nth-child(odd){
-background-color:#586e75;
+  background-color: #586e75;
 }
 
 .types > li:nth-child(3){
